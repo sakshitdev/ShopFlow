@@ -1,2 +1,18 @@
+# Java compiled files
 /bin/
 *.class
+/target/
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
