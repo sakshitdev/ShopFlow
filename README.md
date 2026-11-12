@@ -70,3 +70,14 @@ If an order cannot be completed due to insufficient stock or another database er
 ## Author
 
 Developed as a Java portfolio project.
+
+## Screenshots
+
+### Order Details
+![Order Details](screenshots/ShopFlow_Order_Details.png)
+
+### Successful Order Placement
+![Successful Order Placement](screenshots/ShopFlow_Order_Success.png)
+
+### Transaction Rollback
+![Transaction Rollback](screenshots/ShopFlow_Rollback_Test.png)
